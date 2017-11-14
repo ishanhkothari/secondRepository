@@ -1,0 +1,18 @@
+{
+  "name": "imtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ElectronDemo.js",
+  "dependencies": {
+    "node-datetime": "^2.0.3"
+  },
+  "devDependencies": {
+    "electron": "^1.7.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC"
+}
